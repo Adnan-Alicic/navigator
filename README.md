@@ -12,3 +12,9 @@ https://www.navigator.ba/#/categories is an application that aims to make it eas
 
 ## Running the Test
 - Make sure to have NodeJS installed
+- Make sure to have cypress.js istalled
+- Steps to install:
+- npm install
+- npm init -y
+- npm install cypress
+- npx cypress open
